@@ -9,6 +9,7 @@ The LCD display will showcase the current city selected and its corresponding te
 Photos and Videos
 ---
 
-[Weather Watcher Video](https://github.com/yassin-shehata/Weather-Watcher/assets/38e75aef-8010-40bc-a6a0-8402ae94f210)
+
+https://github.com/user-attachments/assets/61919c15-04ae-4fdc-8a66-a36715805e6b
 ![Weather Watcher Temp](https://github.com/user-attachments/assets/455945f2-887d-4e3b-91a5-de6b99bf662b)
 ![Weather Watcher Skydive](https://github.com/user-attachments/assets/8a892b3d-60ae-4135-a566-d64ceb04584f)
