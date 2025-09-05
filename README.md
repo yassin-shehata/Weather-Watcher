@@ -1,4 +1,4 @@
-# Weather-Watcher
+# Weather-Watcher (1st Year Project)
 ---
 ### The Weather API is a dynamic application that retrieves and displays the current temperatures of various cities worldwide. The local weather data is sourced from [OpenWeatherMap API](https://openweathermap.org).
 ---
